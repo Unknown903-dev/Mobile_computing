@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">map</string>
+    <string name="google_maps_key">your google map key</string>
+</resources>
