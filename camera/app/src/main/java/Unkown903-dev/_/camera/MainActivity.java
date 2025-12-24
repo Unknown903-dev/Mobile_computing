@@ -1,4 +1,4 @@
-package alex_j.lab3.camera;
+package Unknown903-dev._.camera;
 
 import android.app.Activity;
 import android.content.Intent;
