@@ -1,4 +1,4 @@
-package alex_j.lab3.face_detection;
+package Unknown903-dev._.face_detection;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
