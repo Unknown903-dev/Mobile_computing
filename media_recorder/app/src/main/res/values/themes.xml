@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Media_recorder" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your light/dark colors here if you want -->
+        <!-- <item name="colorPrimary">@color/purple_500</item> -->
+    </style>
+
+    <style name="Theme.Media_recorder" parent="Base.Theme.Media_recorder" />
+
+</resources>
