@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'alex_j.lab3.detection_new'
+    namespace 'unknown903-dev._.detection_new'
     compileSdk 36
 
     defaultConfig {
-        applicationId "alex_j.lab3.detection_new"
+        applicationId "unknown903-dev._.detection_new"
         minSdk 24
         //noinspection ExpiredTargetSdkVersion
         targetSdk 27

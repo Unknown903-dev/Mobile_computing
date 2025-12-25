@@ -1,4 +1,4 @@
-package alex_j.lab2a.sensor;
+package unknown903-dev._.sensor;
 
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
