@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'alex_j.lab3.media_recorder'
+    namespace 'unknown903-dev._.media_recorder'
     compileSdk 36
 
     defaultConfig {
-        applicationId "alex_j.lab3.media_recorder"
+        applicationId "unknown903-dev._.media_recorder"
         minSdk 24
         targetSdk 36
         versionCode 1
