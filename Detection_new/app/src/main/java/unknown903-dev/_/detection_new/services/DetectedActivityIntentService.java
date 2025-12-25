@@ -1,4 +1,4 @@
-package alex_j.lab3.detection_new.services;
+package unknown903-dev._.detection_new.services;
 
 import android.app.IntentService;
 import android.content.Intent;
