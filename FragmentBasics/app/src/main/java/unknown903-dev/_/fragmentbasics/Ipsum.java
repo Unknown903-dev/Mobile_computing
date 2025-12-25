@@ -1,4 +1,4 @@
-package alex_j.lab1a.fragmentbasics;
+package unknown903-dev._.fragmentbasics;
 
 public class Ipsum {
     static String[] Headlines = {
