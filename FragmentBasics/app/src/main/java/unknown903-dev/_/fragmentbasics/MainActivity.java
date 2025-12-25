@@ -1,4 +1,4 @@
-package alex_j.lab1a.fragmentbasics;
+package unknown903-dev._.fragmentbasics;
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentManager;
