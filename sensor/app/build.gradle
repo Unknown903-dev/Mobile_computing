@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'alex_j.lab2a.sensor'
+    namespace 'unknown903-dev._.sensor'
     compileSdk 36
 
     defaultConfig {
-        applicationId "alex_j.lab2a.sensor"
+        applicationId "unknown903-dev._.sensor"
         minSdk 24
         targetSdk 36
         versionCode 1
