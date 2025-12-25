@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace "alex_j.lab3.face_detection"
+    namespace "unknown903-dev._.face_detection"
     compileSdk 36
 
     defaultConfig {
-        applicationId "alex_j.lab3.face_detection"
+        applicationId "unknown903-dev._.face_detection"
         minSdk 24
         targetSdk 36
         versionCode 1
