@@ -1,4 +1,4 @@
-package alex_j.lab3.media_recorder;
+package unknown903-dev._.media_recorder;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
