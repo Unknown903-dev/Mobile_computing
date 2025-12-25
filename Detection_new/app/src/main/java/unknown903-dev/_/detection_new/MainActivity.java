@@ -1,4 +1,4 @@
-package alex_j.lab3.detection_new;
+package unknown903-dev._.detection_new;
 
 
 import android.content.BroadcastReceiver;
