@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'alex_j.lab3.voice_commands'
+    namespace 'unknown903-dev._.voice_commands'
     compileSdk 36
 
     defaultConfig {
-        applicationId "alex_j.lab3.voice_commands"
+        applicationId "unknown903-dev._.voice_commands"
         minSdk 24
         targetSdk 36
         versionCode 1
