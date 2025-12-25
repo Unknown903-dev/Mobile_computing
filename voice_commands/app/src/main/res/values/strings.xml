@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">voice_commands</string>
+    <string name="emergency_number">1234567890</string>
+</resources>
